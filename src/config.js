@@ -28,9 +28,9 @@ const prod = {
   },
   cognito: {
     REGION: "us-east-1",
-    USER_POOL_ID: "us-east-1_334NNaDVG",
-    APP_CLIENT_ID: "5p6uhm94fp07i5jvh7sh248m75",
-    IDENTITY_POOL_ID: "us-east-1:be3d1021-10c0-47c3-85be-629be1b098e7"
+    USER_POOL_ID: "us-east-1_LcrbgHbIj",
+    APP_CLIENT_ID: "1amrs4is6m7bedabh9rchp8171",
+    IDENTITY_POOL_ID: "us-east-1:461439002434"
   }
 };
 
